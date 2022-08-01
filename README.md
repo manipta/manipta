@@ -27,7 +27,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manipta&" alt="manipta" /></p>
 
 
-### Blogs posts
+### My Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [5 Softwares You Must Have !!](https://medium.com/@manipta/5-softwares-you-must-have-21046c93fc6c?source=rss-19dd00d4dc6f------2)
 <!-- BLOG-POST-LIST:END -->
