@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mani Garg</h1>
 <h3 align="center">A Passionate Learner from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manipta&label=Visitors&color=0e75b6&style=plastic" alt="manipta" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=manipta&label=Visitors&color=red&style=plastic" alt="manipta" /> </p>
 
 - 🔭 I’m currently working on [AI/ML and Deep Learning based Projects](https://github.com/manipta/EditTheVideo.git)
 
