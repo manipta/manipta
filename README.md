@@ -29,6 +29,7 @@
 
 ### My Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Platforms to Practice Coding](https://medium.com/@manipta/platforms-to-practice-coding-2efc4e2bf7dd?source=rss-19dd00d4dc6f------2)
 - [Simple and Interesting Arduino Projects for Beginners](https://medium.com/@manipta/simple-and-interesting-arduino-projects-for-beginners-2a6ea1fd4ac0?source=rss-19dd00d4dc6f------2)
 - [5 Softwares You Must Have !!](https://medium.com/@manipta/5-softwares-you-must-have-21046c93fc6c?source=rss-19dd00d4dc6f------2)
 <!-- BLOG-POST-LIST:END -->
