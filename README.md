@@ -29,8 +29,8 @@
 
 ### My Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [&lt;3 Cool Artificial Intelligence Software You Must TRY for FREE!](https://medium.com/@manipta/3-cool-artificial-intelligence-software-you-must-try-for-free-d5676650c7d4?source=rss-19dd00d4dc6f------2)
 - [How I got my first 100 followers, “ORGANICALLY”!!](https://medium.com/@manipta/how-i-got-my-first-100-followers-organically-2991665710fb?source=rss-19dd00d4dc6f------2)
 - [How to be Perfect / Flawless….](https://medium.com/@manipta/how-to-be-perfect-flawless-d7ba8b66cedd?source=rss-19dd00d4dc6f------2)
 - [Most People Don’t Know These Win Key Shortcuts](https://medium.com/@manipta/most-people-dont-know-these-win-key-shortcuts-3af7d398aa37?source=rss-19dd00d4dc6f------2)
-- [You Don’t Need Coding To Create Your Free Website](https://medium.com/@manipta/you-dont-need-coding-to-create-your-free-website-8532fac2d?source=rss-19dd00d4dc6f------2)
 <!-- BLOG-POST-LIST:END -->
