@@ -29,8 +29,8 @@
 
 ### My Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [23 Firsts of Technology as we are in 2023! Part-2](https://medium.com/@manipta/23-firsts-of-technology-as-we-are-in-2023-part-2-d94a220d3922?source=rss-19dd00d4dc6f------2)
 - [Create your own Calculator in Python!](https://medium.com/@manipta/create-your-own-calculator-in-python-93d8c0e5af1?source=rss-19dd00d4dc6f------2)
 - [23 Tech Facts as we are in 2023!](https://medium.com/@manipta/23-tech-facts-as-we-are-in-2023-aaa35e255cfe?source=rss-19dd00d4dc6f------2)
 - [Play Musical Notes with your Hand Gestures using Python](https://medium.com/@manipta/play-musical-notes-with-your-hand-gestures-using-python-9d8ea930fadb?source=rss-19dd00d4dc6f------2)
-- [&lt;3 Cool Artificial Intelligence Software You Must TRY for FREE!](https://medium.com/@manipta/3-cool-artificial-intelligence-software-you-must-try-for-free-d5676650c7d4?source=rss-19dd00d4dc6f------2)
 <!-- BLOG-POST-LIST:END -->
