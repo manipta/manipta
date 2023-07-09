@@ -29,8 +29,8 @@
 
 ### My Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Types of VR-Based Medical Tools](https://medium.com/@manipta/types-of-vr-based-medical-tools-3debf5169cd9?source=rss-19dd00d4dc6f------2)
 - [Major Tech News on Single Page!](https://medium.com/@manipta/major-tech-news-on-single-page-7eec807e77cd?source=rss-19dd00d4dc6f------2)
 - [Dutch Data Protection Authority Investigates Possible Data Breach at Tesla](https://medium.com/@manipta/dutch-data-protection-authority-investigates-possible-data-breach-at-tesla-5529319e6ad4?source=rss-19dd00d4dc6f------2)
 - [Globalcaja Hit by Ransomware Attack: Customer Data at Risk](https://medium.com/@manipta/globalcaja-hit-by-ransomware-attack-customer-data-at-risk-eff7991d5634?source=rss-19dd00d4dc6f------2)
-- [10 Unique Countries Most of us Don’t Know!](https://medium.com/@manipta/10-unique-countries-most-of-us-dont-know-d7a57f12803d?source=rss-19dd00d4dc6f------2)
 <!-- BLOG-POST-LIST:END -->
