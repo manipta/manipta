@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manipta&label=Visitors&color=red&style=plastic" alt="manipta" /> </p>
 
-- 🔭 I’m currently working on [AI/ML and Deep Learning based Projects](https://github.com/manipta/EditTheVideo.git)
+- 🔭 I’m currently looking for SDE-1 roles.
 
 - 🌱 I’m currently learning **Data Structures and Web Development**
 
