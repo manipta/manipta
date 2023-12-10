@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manipta&label=Visitors&color=red&style=plastic" alt="manipta" /> </p>
 
-- 🔭 I’m currently looking for SDE-1 roles.
+- 🔭 I’m currently looking for SWE-internship.
 
-- 🌱 I’m currently learning **Data Structures and Web Development**
+- 🌱 I’m currently learning **Data Structures and Django**
 
 - 📫 How to reach me **mani.garg.pta@gmail.com or mgarg3_be20@thapar.edu**
 
