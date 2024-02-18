@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manipta&label=Visitors&color=red&style=plastic" alt="manipta" /> </p>
 
-- 🔭 I’m currently looking for SWE-internship.
+- 🔭 I’m currently working as Full Stack Intern at Codju Technologies.
 
 - 🌱 I’m currently learning **Data Structures and Django**
 
