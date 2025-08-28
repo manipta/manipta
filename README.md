@@ -5,9 +5,11 @@
 
 - 🔭 I’m currently working as Software Engineer-1 at Codju Technologies.
 
-- 🌱 I’m currently learning **Data Structures and Django**
+- 🌱 React.JS, Node.JS, Nest.JS, Django, Flask
 
-- 📫 How to reach me **mani.garg.pta@gmail.com or mgarg3_be20@thapar.edu**
+- 🏓 Side Tech Hobbies: Blender and Unity 3D 
+
+- 📫 How to reach me **mani.garg.pta@gmail.com or manigarg2411@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
