@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working as Software Engineer-1 at Codju Technologies.
 
-- 🌱 React.JS, Node.JS, Nest.JS, Django, Flask
+- 🌱 React.JS, Node.JS, Nest.JS, Java, Spring, Django, Flask
 
 - 🏓 Side Tech Hobbies: Blender and Unity 3D 
 
